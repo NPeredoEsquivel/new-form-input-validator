@@ -1,7 +1,7 @@
 import React from "react";
 
 import Navigation from "./Navigation";
-import classes from "./MainHeader.module.css";
+import classes from "./MainHeader.module.scss";
 
 const MainHeader = () => {
   return (

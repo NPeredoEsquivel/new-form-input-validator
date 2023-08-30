@@ -7,7 +7,7 @@ import React, {
 } from "react";
 import AuthContext from "../../context/auth-context.js";
 import Card from "../UI/Card/Card";
-import classes from "./Login.module.css";
+import classes from "./Login.module.scss";
 import Button from "../UI/Button/Button";
 import Input from "../UI/Input/Input.js";
 
